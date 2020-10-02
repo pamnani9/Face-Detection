@@ -1,4 +1,4 @@
-# Face-Detction
+# Face-Detection 
 Face recognition is an important application of Image processing owing to it's use in many fields. In this project use of FRONTAL-FACE HaarCascade is done to detect the face of the dataset that you will create on your localhost.
 
 The project consist of three major files you need for this project to work -
